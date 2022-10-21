@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.a{
+    text-decoration: none;
+}
+.header_panel{
+height: 60px;
+background: #373A3C center center / cover;
+border-radius: 4px;
+display: flex;
+}
+.panel__links{
+    display: flex; 
+    margin-left: 443px;
+}
+.panel__logo{
+    padding-left: 163px;
+    padding-top: 15px;
+}
+.panel__links__text{
+    padding-right: 53px;
+    margin-left: 0px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+}
+.panel__arrow{
+    padding-top: 28px;
+    margin-right: 0px;
+}
+.panel__search{
+    width: 209px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+.sect1{
+    height:643px;
+    background: url(../img/Star-Wars-Battlefront-II-combat.png) no-repeat center center / cover;
+}
+.sect1__maintext{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    padding-left:831px ;
+    padding-top: 201px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+.sect1__footertext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+padding-left: 831px;
+margin-top: 0px;
+color: #FFFFFF;
+}
+.sect1__greenbutton{
+    background: #8DD83D;
+border-radius: 4px;
+width: 136px;
+height: 28px;
+margin-left: 831px;
+margin-right: 13px;
+padding-top: 10px;
+text-align: center;
+color: #FFFFFF;
+}
+.sect1__graybutton{
+    width: 136px;
+    height: 28px;
+    padding-top: 10px;
+    background: linear-gradient(180deg, #686C6F 0%, #373A3C 100%);
+border-radius: 4px;
+text-align: center;
+color: #FFFFFF;
+}
+.sect1__buttons{
+    display: flex;
+    margin-top: 135px;
+}
+.sect2{
+    background: radial-gradient(100% 100% at 50% 0%, #686C6F 0%, #373A3C 100%) no-repeat center center / cover ;
+    height: 865px;
+    
+}
+.sect2__logo{
+    display: flex;
+    padding-left: 690px;
+    padding-top: 69px;
+}
+.sect2__maintext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+margin: 0px;
+padding-left: 563px;
+color: #FFFFFF;
+
+}
+.sect2__footertext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+margin: 0px;
+padding-left: 501px;
+color: #FFFFFF;
+}
+.sect2__form{
+    width: 317.8px;
+    height: 420px;
+    background: #FFFFFF;
+border: 1px solid #8DD83D;
+border-radius: 4px;
+margin-right: 64px;
+
+}
+.sect2__forms{
+    display: flex;
+    padding-left: 172px;
+    margin-top: 44px;
+}
+.sect2__form__maintext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #435766;
+padding-left: 22px;
+}
+.sect2__form__footertext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #435766;
+padding-left: 22px;
+}
+.sect2__form__button{
+    width: 278px;
+    height: 40px;
+    background: #8DD83D;
+border-radius: 4px;
+margin-left: 21px;
+text-align: center;
+color: #FFFFFF;
+padding-top: 20px;
+}
+.sect3{
+    height: 480px;
+    background: url(../img/gamepad.png) no-repeat center center / cover;
+    margin: 0px;
+}
+.sect3__flex{
+    display: flex;
+}
+.sect3__maintext{
+padding-top: 114px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+margin: 0;
+color: #FFFFFF;
+padding-left: 167px;
+}
+.sect3__footertext{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+margin: 0;
+padding-left: 167px;
+padding-top: 10px;
+}
+.sect3__graybutton{
+    background: linear-gradient(180deg, #686C6F 0%, #373A3C 100%);
+border-radius: 4px;
+height: 40px;
+width: 207px;
+border-radius: 4px;
+margin: 0;
+margin-top: 39px;
+margin-left: 166px;
+padding-top: 19px;
+text-align: center;
+color: #FFFFFF;
+}
+.sect3__greenbutton{
+height: 40px;
+width: 278px;
+background: #8DD83D;
+border-radius: 4px;
+margin-top: 39px;
+margin-left: 15px;
+padding-top: 19px;
+text-align: center;
+color: #FFFFFF;
+}
+.sect4{
+    background: #373A3C no-repeat center center / cover;
+    height: 395px;
+    margin: 0;
+border-radius: 0px;
+padding-left: 100px;
+padding-top: 58px;
+}
+.sect4__maintext{
+    margin: 0;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #7DD42F;
+
+}
+.sect4__footertext{
+    margin: 0;
+    padding-top: 35px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+.sect4__flex{
+    display: flex;
+}
+.sect4__form{
+    padding-right: 288px;
+    padding-left: 65px;
+}
+.sect4__image{
+    padding-right: 20px;
+    padding-top: 29px;
+}
+.sect4__line{
+    mix-blend-mode: normal;
+opacity: 0.35;
+border: 1px solid #FFFFFF;
+margin-top: 80px;
+width: 1300px;
+}
+.sect4__underlinetext{
+font-family: 'Roboto';
+font-style: normal;
+font-size: 16px;
+
+color: #FFFFFF;
+padding-right: 425px;
+padding-left: 10px;
+}
+.sect4__textflex{
+    display: flex;
+}
+.sect4__underlinetextsecond{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 16px;
+    
+    color: #FFFFFF;
+    padding-left: 560px;
+}
+
+
+/* Регистрационная страница*/
+
+
+.regform{
+height: 433px;
+width: 300px;
+border-radius: 0px;
+background: #373A3C;
+display: flex;
+margin-left: 750px;
+margin-top: 200px;
+}
+.reg__maintext{
+    padding-top: 40px;
+    padding-left: 96px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #979797;
+
+}
+.reg__search{
+    height: 30px;
+    width: 60px;
+}
